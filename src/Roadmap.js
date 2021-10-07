@@ -12,7 +12,7 @@ const Roadmap = () => {
   return (
     <>
       <h1>Roadmap</h1>
-      <div>
+      <div className="image-container">
         <img src={images.url} />
       </div>
     </>

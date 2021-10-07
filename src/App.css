@@ -13,6 +13,10 @@ body {
   background-color: #eee;
   font-family: "Open Sans", sans-serif;
 }
+.image-container {
+  margin: 50px;
+  padding: 50px;
+}
 .headertop {
   overflow: hidden;
   background-color: #393cd8;
